@@ -1,5 +1,7 @@
 {
   "name": "05-toDo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
